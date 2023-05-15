@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 body {
-    font-family: sans-serif;
+    font-family: 'Dancing Script', cursive;
     background-image: url(cakeimages/bgimage.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
